@@ -12,3 +12,18 @@ d:\CODING\C#\CsharpProjects\TestProject\obj\Debug\net10.0\refint\TestProject.dll
 d:\CODING\C#\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.pdb
 d:\CODING\C#\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
 d:\CODING\C#\CsharpProjects\TestProject\obj\Debug\net10.0\ref\TestProject.dll
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\bin\Debug\net10.0\TestProject.exe
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\bin\Debug\net10.0\TestProject.deps.json
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\bin\Debug\net10.0\TestProject.runtimeconfig.json
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\bin\Debug\net10.0\TestProject.dll
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\bin\Debug\net10.0\TestProject.pdb
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.sourcelink.json
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.dll
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\refint\TestProject.dll
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.pdb
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+D:\CODING\C#\C# Microsoft Course\1 - Call methods from the .NET Class Library using C#\obj\Debug\net10.0\ref\TestProject.dll
