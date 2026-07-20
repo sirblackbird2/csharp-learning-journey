@@ -1,0 +1,15 @@
+D:\CODING\C#\C# Microsoft Course\TestProject18\bin\Debug\net10.0\TestProject18.exe
+D:\CODING\C#\C# Microsoft Course\TestProject18\bin\Debug\net10.0\TestProject18.deps.json
+D:\CODING\C#\C# Microsoft Course\TestProject18\bin\Debug\net10.0\TestProject18.runtimeconfig.json
+D:\CODING\C#\C# Microsoft Course\TestProject18\bin\Debug\net10.0\TestProject18.dll
+D:\CODING\C#\C# Microsoft Course\TestProject18\bin\Debug\net10.0\TestProject18.pdb
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.AssemblyInfoInputs.cache
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.AssemblyInfo.cs
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.csproj.CoreCompileInputs.cache
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.sourcelink.json
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.dll
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\refint\TestProject18.dll
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.pdb
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\TestProject18.genruntimeconfig.cache
+D:\CODING\C#\C# Microsoft Course\TestProject18\obj\Debug\net10.0\ref\TestProject18.dll
