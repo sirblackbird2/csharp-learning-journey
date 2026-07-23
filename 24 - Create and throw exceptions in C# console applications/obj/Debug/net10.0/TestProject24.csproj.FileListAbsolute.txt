@@ -1,0 +1,15 @@
+D:\CODING\C#\C# Microsoft Course\TestProject24\bin\Debug\net10.0\TestProject24.exe
+D:\CODING\C#\C# Microsoft Course\TestProject24\bin\Debug\net10.0\TestProject24.deps.json
+D:\CODING\C#\C# Microsoft Course\TestProject24\bin\Debug\net10.0\TestProject24.runtimeconfig.json
+D:\CODING\C#\C# Microsoft Course\TestProject24\bin\Debug\net10.0\TestProject24.dll
+D:\CODING\C#\C# Microsoft Course\TestProject24\bin\Debug\net10.0\TestProject24.pdb
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.AssemblyInfoInputs.cache
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.AssemblyInfo.cs
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.csproj.CoreCompileInputs.cache
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.sourcelink.json
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.dll
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\refint\TestProject24.dll
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.pdb
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\TestProject24.genruntimeconfig.cache
+D:\CODING\C#\C# Microsoft Course\TestProject24\obj\Debug\net10.0\ref\TestProject24.dll
