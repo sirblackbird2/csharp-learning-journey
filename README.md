@@ -1,4 +1,5 @@
-# C# Learning Journey
+# C# Learning Journey   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="25">
+
 
 This repository contains the projects I completed while learning C# through the Microsoft Learn and freeCodeCamp Foundational C# certification.
 
@@ -26,7 +27,9 @@ These projects cover topics such as:
 
 I completed the **Foundational C# with Microsoft** certification.
 
-Certificate:
+<img src="images/certificate-preview.png" width="700" alt="Foundational C# Certificate">
+
+Certificate Verification:
 https://www.freecodecamp.org/certification/fcc-a4fbb985-f6a7-4dae-a3e6-97e32e5ded81/foundational-c-sharp-with-microsoft
 
 ## What's next
